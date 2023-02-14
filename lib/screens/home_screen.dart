@@ -80,7 +80,7 @@ class _HomeScreenState extends State<HomeScreen> {
                           "https://api.agora.io/dev/v1/channel/2d865c0731b94980b4328297ff4db739"),
                       headers: {
                         "Authorization":
-                            "basic MTg1OTJiNGFiYTVjNGNiYWEyZTQ5NTJmZTVjYTRlMjU6NjY0YjFiNjJkODZkNDJmYmExNzVkNDE0NWM1ODY1OGQ=",
+                            "",
                       }),
                   builder:
                       (BuildContext context, AsyncSnapshot<http.Response> res) {
